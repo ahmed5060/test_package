@@ -1,0 +1,10 @@
+name: fl_bootstrap
+version: 1.0.0
+description: A Flutter package that arranges three widgets in rows or columns based on the device screen size.
+homepage: https://github.com/ahmed5060/test_package
+repository: https://github.com/ahmed5060/test_package
+environment:
+  sdk: ">=2.12.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
